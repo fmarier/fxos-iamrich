@@ -3,6 +3,7 @@
   "name": "I am rich",
   "description": "Show off your wealth with this app which does nothing else but remind you that you are rich.",
   "launch_path": "/",
+  "fullscreen": "false",
   "icons": {
     "16": "/img/icons/iamrich-16.png",
     "48": "/img/icons/iamrich-48.png",
@@ -10,7 +11,7 @@
   },
   "developer": {
     "name": "Francois Marier",
-    "url": "https://github.com/fmarier/fxos-iamrich"
+    "url": "https://github.com/fmarier"
   },
   "installs_allowed_from": ["*"],
   "locales": {
