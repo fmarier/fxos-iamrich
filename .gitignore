@@ -41,5 +41,6 @@ publish
 build/buildinfo.properties
 build/config/buildinfo.properties
 
-www-built
-www-ghdeploy
+/www-built
+/www-ghdeploy
+/node_modules
