@@ -19,12 +19,16 @@ define(function(require) {
 
     // Write your app here.
 
-
-
-
-
-
-
+    var gem = document.getElementById('gem');
+      gem.addEventListener('click', function() {
+        var mantra = document.getElementById('mantra');
+        if (mantra.style.display) {
+          mantra.style.display = null;
+        }
+        else {
+          mantra.style.display = 'block';
+        }
+    })
 
 });
 

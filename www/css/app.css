@@ -6,4 +6,10 @@
 @import "install-button.css";
 
 /* Your styles here */
+#mantra {
+  display: none;
+}
 
+#container {
+  text-align: center;
+}
