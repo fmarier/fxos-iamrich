@@ -18,3 +18,9 @@
     max-width: 80%;
     line-height: 1.2em;
 }
+#mantra {
+  display: none;
+}
+#container {
+  text-align: center;
+}
