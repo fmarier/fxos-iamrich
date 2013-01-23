@@ -3,11 +3,15 @@
   "name": "I am rich",
   "description": "Show off your wealth with this app which does nothing else but remind you that you are rich.",
   "launch_path": "/",
-  "fullscreen": "false",
   "icons": {
     "16": "/img/icons/iamrich-16.png",
+    "30": "/img/icons/iamrich-30.png",
+    "32": "/img/icons/iamrich-32.png",
     "48": "/img/icons/iamrich-48.png",
-    "128": "/img/icons/iamrich-128.png"
+    "60": "/img/icons/iamrich-60.png",
+    "64": "/img/icons/iamrich-64.png",
+    "128": "/img/icons/iamrich-128.png",
+    "256": "/img/icons/iamrich-256.png"
   },
   "developer": {
     "name": "Francois Marier",
